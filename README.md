@@ -25,7 +25,7 @@ The program uses Python’s built-in `random` and `string` modules to create a s
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/password-generator.git
+   git clone https://github.com/<nikunjzade8-oss>/password-generator.git
 
 -------
 2. Navigate into the project folder:
